@@ -2,8 +2,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 
 <!-- h1 without bottom border -->
-<div id="user-content-toc" align="center">
-  <summary><h1 style="display: inline-block">Hi 👋, I'm Sebastian Romero</h1></summary>
+<div align="center">
+  <h1 style="display: inline-block">Hi 👋, I'm Sebastian Romero</h1>
 </div>
 
 <!-- Snake -->
@@ -12,8 +12,8 @@
 </div>
 
 <!-- h1 without bottom border -->
-<div id="user-content-toc" align="center">
-  <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+<div align="center">
+  <h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2>
 </div>
 
 <!-- Tech stack icons -->
@@ -31,8 +31,8 @@
 </p>
 
 <!-- Connect with me -->
-<div id="user-content-toc" align="center">
-  <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+<div align="center">
+  <h2 style="display: inline-block">Connect With Me🤝</h2>
 </div>
 
 <!-- Icons and links -->
