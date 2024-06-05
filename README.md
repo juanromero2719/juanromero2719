@@ -38,7 +38,7 @@
   <a href="https://www.instagram.com/sebastian.romero.1802/" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Instagram" height="50" width="50" />
   </a>
-  <a href="#" target="blank">
+  <a href="https://gitlab.com/Sebastian2709" target="blank">
      <img align="center" src="https://skillicons.dev/icons?i=gitlab&perline=1" alt="Gitlab" height="50" width="50"/>
   </a>
 </p>
