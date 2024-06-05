@@ -16,17 +16,12 @@
   <h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2>
 </div>
 
-<!-- Tech stack icons -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" alt="Tech stack" />
-  </a>
-</p>
+
 
 <!-- Additional tech stack icons -->
 <p align="center">
   <a href="https://skillicons.dev" target="blank">
-    <img src="https://skillicons.dev/icons?i=python,aws,gcp,azure,react,vue,flutter&perline=13" alt="Additional tech stack" />
+    <img src="https://skillicons.dev/icons?i=python,git,cpp,css,docker,postgres,github,html,js,linux,md,postman,vscode&perline=13" alt="Additional tech stack" />
   </a>
 </p>
 
