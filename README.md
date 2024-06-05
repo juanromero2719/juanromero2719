@@ -21,7 +21,7 @@
 <!-- Additional tech stack icons -->
 <p align="center">
   <a href="https://skillicons.dev" target="blank">
-    <img src="https://skillicons.dev/icons?i=python,git,cpp,css,docker,postgres,github,html,js,debian,md,postman,vscode,django,gitlab,spring,windows&perline=13" alt="Additional tech stack" />
+    <img src="https://skillicons.dev/icons?i=python,git,cpp,css,docker,postgres,github,html,js,debian,md,postman,vscode,django,gitlab,spring&perline=13" alt="Additional tech stack" />
   </a>
 </p>
 
@@ -39,7 +39,7 @@
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Instagram" height="50" width="50" />
   </a>
   <a href="#" target="blank">
-  <!-- <img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="Hashnode" height="50" width="50" /> -->
+     <img src="https://skillicons.dev/icons?i=gitlab&perline=1" alt="Gitlab" />
   </a>
 </p>
 
