@@ -33,7 +33,7 @@
 <!--tech stack icons-->
 <p align="center">
     <a href="#" target="blank">
-  a
+ [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
     </a>
 </p>
 
