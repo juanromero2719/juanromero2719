@@ -8,7 +8,7 @@
 
 <!-- Snake -->
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
+  <img src="resources/images/grid-snake.svg" alt="snake" />
 </div>
 
 <!-- h1 without bottom border -->
