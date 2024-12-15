@@ -21,7 +21,7 @@
 <!-- Additional tech stack icons -->
 <p align="center">
   <a href="https://skillicons.dev" target="blank">
-    <img src="https://skillicons.dev/icons?i=python,git,cpp,css,docker,postgres,github,html,js,debian,md,postman,vscode,django,gitlab,spring,java&perline=13" alt="Additional tech stack" />
+    <img src="https://skillicons.dev/icons?i=python,git,cpp,css,docker,postgres,github,html,js,debian,md,postman,vscode,django,gitlab,spring,java,mongodb,express,nodejs,react&perline=13" alt="Additional tech stack" />
   </a>
 </p>
 
