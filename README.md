@@ -7,9 +7,9 @@
 </div>
 
 <!-- Snake -->
-<div align="center">
+<!-- <div align="center">
   <img src="resources/images/grid-snake.svg" alt="snake" />
-</div>
+</div> -->
 
 <!-- h1 without bottom border -->
 <div align="center">
